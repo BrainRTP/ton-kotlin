@@ -27,6 +27,7 @@ dependencyResolutionManagement {
 
 include(":ton-kotlin-adnl")
 include(":ton-kotlin-api")
+include(":ton-kotlin-asm")
 include(":ton-kotlin-bigint")
 include(":ton-kotlin-bitstring")
 include(":ton-kotlin-block")
@@ -41,4 +42,5 @@ include(":ton-kotlin-mnemonic")
 include(":ton-kotlin-contract")
 include(":ton-kotlin-tl")
 include(":ton-kotlin-tlb")
+include(":ton-kotlin-vm")
 include(":ton-kotlin-fift")
